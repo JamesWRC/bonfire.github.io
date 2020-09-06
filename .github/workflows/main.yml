@@ -15,4 +15,5 @@ jobs:
         uses: cloudflare/wrangler-action@1.2.0
         with:
           apiToken: ${{ secrets.PERSONAL_SITE_CF_API_TOKEN }}
+          email: ${{ secrets.PERSONAL_SITE_CF_EMAIL }}
           environment: 'production'
