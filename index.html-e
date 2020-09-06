@@ -20,18 +20,22 @@
                     <div class="col-lg-6 icon">
                     <div class="app_icon"> <img class="img-fluid app_icon_fix" src="assets/img/Bonfire_opton6.png" /></div>
                     </div>
-                    <div class="col-lg-6">
+                    <div class="col-lg-8">
                     <h4 class="mb-5 app_title">
-                        Bonfire
+                        &nbsp;Bonfire:
+                        <span class="desc_title">
+                             &nbsp;&nbsp;Server Monitor
+                        </span>
                     </h4>
+                    
                     </div>
                     <hr>
-                    <h2 class="mb-5" style="margin-top:10%; margin-bottom:10%;">Empower server owners and developers to manage and control the use of cloudflare proxied sites / resources without being chained to a computer</h2>
+                    <h2 class="mb-5" style="margin-top:10%; margin-bottom:10%;">Empower server owners and developers to manage and control the use of Cloudflare™ proxied sites & web resources without being chained to a computer.</h2>
                     <div class="badges">
 <!--                         <a class="badge-link" href="#">
                             <img src="assets/img/google-play-badge.svg" />
                         </a> -->
-                        <a class="badge-link" href="#">
+                        <a class="badge-link" href="https://github.com/rmit-S2-2020-iPhone/a1-s3718036_s3656070_s3663139_s3717393">
                             <img src="assets/img/app-store-badge.svg" />
                         </a>
                     </div>
@@ -40,8 +44,8 @@
             <div class="col-lg-5 my-auto">
                 <div class="device-container">
                     <div class="device-mockup iphone6_plus portrait white">
-                        <div class="device" style="background-image:url('assets/img/iphone_6_plus_white_port.png');">
-                            <div class="screen"><img class="img-fluid" src="assets/img/demo-screen-1.jpg" /></div>
+                        <div class="device" style="margin: auto; margin-bottom:10%;background-image:url('assets/img/iphone.png');">
+<!--                             <div class="screen"><img class="img-fluid" src="assets/img/iphone.png" /></div> -->
                             <div class="button"></div>
                         </div>
                     </div>
@@ -63,7 +67,7 @@
         </ul>
     </div>
 </footer> --><footer>
-    <div class="container" style="linear-gradient(to left, #121212, #2d2d2d);height:100%;">
+    <div class="container" style="padding-top: 1px;linear-gradient(to left, #121212, #2d2d2d);height:100%;">
         <p>Developed by James Cockshott, Kurt Invernon, Matthew Samuel & Dylan Sbogar</p>        
     </div>
 </footer>
