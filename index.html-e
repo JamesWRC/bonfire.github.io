@@ -5,11 +5,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Home - Bonfire app</title>
-    <link rel="stylesheet" href="https://jameswrc.github.io/assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Muli">
-    <link rel="stylesheet" href="https://jameswrc.github.io/assets/css/styles.min.css">
+    <link rel="stylesheet" href="assets/css/styles.min.css">
 </head>
 
 <body id="page-top"><header class="masthead" style="linear-gradient(to left, #121212, #2d2d2d);height:100%;">
@@ -18,7 +18,7 @@
             <div class="col-lg-7 my-auto">
                 <div class="mx-auto header-content">
                     <div class="col-lg-6 icon">
-                    <div class="app_icon"> <img class="img-fluid app_icon_fix" src="https://jameswrc.github.io/assets/img/Bonfire_opton6.png" /></div>
+                    <div class="app_icon"> <img class="img-fluid app_icon_fix" src="assets/img/Bonfire_opton6.png" /></div>
                     </div>
                     <div class="col-lg-6">
                     <h4 class="mb-5 app_title">
@@ -29,10 +29,10 @@
                     <h2 class="mb-5" style="margin-top:10%; margin-bottom:10%;">Empower server owners and developers to manage and control the use of cloudflare proxied sites / resources without being chained to a computer</h2>
                     <div class="badges">
 <!--                         <a class="badge-link" href="#">
-                            <img src="https://jameswrc.github.io/assets/img/google-play-badge.svg" />
+                            <img src="assets/img/google-play-badge.svg" />
                         </a> -->
                         <a class="badge-link" href="#">
-                            <img src="https://jameswrc.github.io/assets/img/app-store-badge.svg" />
+                            <img src="assets/img/app-store-badge.svg" />
                         </a>
                     </div>
                 </div>
@@ -40,8 +40,8 @@
             <div class="col-lg-5 my-auto">
                 <div class="device-container">
                     <div class="device-mockup iphone6_plus portrait white">
-                        <div class="device" style="background-image:url('https://jameswrc.github.io/assets/img/iphone_6_plus_white_port.png');">
-                            <div class="screen"><img class="img-fluid" src="https://jameswrc.github.io/assets/img/demo-screen-1.jpg" /></div>
+                        <div class="device" style="background-image:url('assets/img/iphone_6_plus_white_port.png');">
+                            <div class="screen"><img class="img-fluid" src="assets/img/demo-screen-1.jpg" /></div>
                             <div class="button"></div>
                         </div>
                     </div>
@@ -67,10 +67,10 @@
         <p>Developed by James Cockshott, Kurt Invernon, Matthew Samuel & Dylan Sbogar</p>        
     </div>
 </footer>
-    <script src="https://jameswrc.github.io/assets/js/jquery.min.js"></script>
-    <script src="https://jameswrc.github.io/assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
-    <script src="https://jameswrc.github.io/assets/js/script.min.js"></script>
+    <script src="assets/js/script.min.js"></script>
 </body>
 
 </html>

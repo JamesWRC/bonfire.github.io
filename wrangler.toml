@@ -1,11 +1,8 @@
-name = "bonfireapp"
+name = "bonfire"
 type = "javascript"
 account_id = "31b6f0f07166da218b3b9b22a2414860"
-workers_dev = true
 route = "bonfire.jwrc.me"
 zone_id = "d4ec936a3a25343c77ecb893fa6396a2"
 
 
-[env.production]
-name="bonfire"
-route="bonfire.jwrc.me"
+
